@@ -32,6 +32,17 @@ statuses:
 
 promises:
     -
+        title: 'Test test test'
+        status: Not started
+        category: First 100 Days
+        tags:
+            - 'Contract with the American Voter - 100 Day Plan'
+        comments: 'https://redd.it/5d4r8m'
+        sources:
+            - 'https://web.archive.org/web/20161101093508/https://www.donaldjtrump.com/press-releases/donald-j.-trump-delivers-groundbreaking-contract-for-the-american-vote1'
+            - 'https://youtu.be/4t1xR9U6IAU?t=44s'
+            - 'https://web.archive.org/web/20161109222320/http://www.npr.org/2016/11/09/501451368/here-is-what-donald-trump-wants-to-do-in-his-first-100-days'
+    -
         title: 'Propose a Constitutional Amendment to impose term limits on all members of Congress'
         status: Not started
         category: First 100 Days
