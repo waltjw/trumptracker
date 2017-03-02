@@ -32,11 +32,11 @@ statuses:
 
 promises:
     -
-        title: 'Test test test'
+        title: 'Test test test - edited for practice'
         status: Not started
-        category: First 100 Days
+        category: First 101 Days
         tags:
-            - 'Contract with the American Voter - 100 Day Plan'
+            - 'Contract with the American Voter - 101 Day Plan'
         comments: 'https://redd.it/5d4r8m'
         sources:
             - 'https://web.archive.org/web/20161101093508/https://www.donaldjtrump.com/press-releases/donald-j.-trump-delivers-groundbreaking-contract-for-the-american-vote1'
